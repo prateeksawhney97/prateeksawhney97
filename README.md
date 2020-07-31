@@ -44,24 +44,24 @@ Share Split - Made in India          |  100% seamless transfer | Share Apps     
 
 ### Why Share Split App?
 
-#### ⚡ Bulk Transfer Large Files
+##### ⚡ Bulk Transfer Large Files
 Look no further than Share Split when you need to transfer massive folders. You can share multiple large files and folders with one click!
 
-#### ⚡ Transfer files with flash speed
+##### ⚡ Transfer files with flash speed
 Send and receive any type of files, apps, music, games, obb files, documents, pdf's and more in no time. Transfer 200 times faster than Bluetooth.
 
-#### ⚡ No Ads
+##### ⚡ No Ads
 Enjoy a completely Ad free experience with no disruptions when sharing files. Receive files without any limitations. Receive contacts, apps, images, videos, music, documents, etc. easily.
 
-#### ⚡ No Loss in Quality
+##### ⚡ No Loss in Quality
 Send large files without any limitations and maintain the original file size. Send as much as you can with no loss in quality.
 
-#### ⚡ Only Storage Permission
+##### ⚡ Only Storage Permission
 In order to send and receive files, Share Split needs only the permission to read and write files on your Android device or the Storage Permission.
 
-Want to show love and help Share Split grow? A positive rating would definitely encourage me to offer you the best experience and service.
+-- Want to show love and help Share Split grow? A positive rating would definitely encourage me to offer you the best experience and service.
 
-Your feedback is important to me ❤
+-- Your feedback is important to me ❤
 
 [Support] 
 In case of any query, feel free to contact on: Prateek.sawhney97@gmail.com

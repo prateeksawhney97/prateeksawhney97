@@ -20,7 +20,7 @@ Made in India          |  Home Screen        | Share Apps         | DistincTrait
 ![1](https://user-images.githubusercontent.com/34116562/89002584-1d74e800-d31b-11ea-9183-875395c3e00d.jpg)  |  ![2](https://user-images.githubusercontent.com/34116562/89002592-1f3eab80-d31b-11ea-9eb4-a82b1d7cfe15.jpg) | ![3](https://user-images.githubusercontent.com/34116562/89002600-21086f00-d31b-11ea-836a-dae45d15b26e.jpg) | ![4](https://user-images.githubusercontent.com/34116562/89002608-25348c80-d31b-11ea-9dc9-ec68f5a9df48.jpg) 
 
 
-#### Transfer and Share in a few clicks ->
+### Transfer and Share in a few clicks ->
 
 ⭐ Share videos, music, photos, documents, obb files via android phones.
 
@@ -42,7 +42,7 @@ Made in India          |  Home Screen        | Share Apps         | DistincTrait
 
 ⭐ Indian Sharing Application - Made with ❤ in India 
 
-#### Why Share Split App?
+### Why Share Split App?
 
 ⚡ Bulk Transfer Large Files
 Look no further than Share Split when you need to transfer massive folders. You can share multiple large files and folders with one click!

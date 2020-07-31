@@ -6,6 +6,10 @@
 Here are some ideas to get you started:
 -->
 
+![sharesplit](https://user-images.githubusercontent.com/34116562/89002206-22856780-d31a-11ea-8fec-e0ae058be96a.png)
+
+
+
 - 🔭 I’m currently working as an Explore Machine Learning Facilitator @ Google, India
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects

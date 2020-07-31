@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ![sharesplit](https://user-images.githubusercontent.com/34116562/89002206-22856780-d31a-11ea-8fec-e0ae058be96a.png)
 
-Solarized dark             |  Solarized Ocean         | Solarized Ocean           |Solarized Ocean          | Solarized Ocean           |
+Made in India          |  Home Screen        | Share Apps         | DistincTrait       | 100% seamless transfer of Apps          |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![1](https://user-images.githubusercontent.com/34116562/89002584-1d74e800-d31b-11ea-9183-875395c3e00d.jpg)  |  ![2](https://user-images.githubusercontent.com/34116562/89002592-1f3eab80-d31b-11ea-9eb4-a82b1d7cfe15.jpg) | ![3](https://user-images.githubusercontent.com/34116562/89002600-21086f00-d31b-11ea-836a-dae45d15b26e.jpg) | ![4](https://user-images.githubusercontent.com/34116562/89002608-25348c80-d31b-11ea-9dc9-ec68f5a9df48.jpg) | ![5](https://user-images.githubusercontent.com/34116562/89002611-2796e680-d31b-11ea-99b4-7e5ea953f536.jpg)
 

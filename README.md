@@ -15,7 +15,7 @@ Share Split app enables quick and easy file transfer without internet usage. Sha
 
 ![sharesplit](https://user-images.githubusercontent.com/34116562/89002206-22856780-d31a-11ea-8fec-e0ae058be96a.png)
 
-Share Split - Made in India          |  100% seamless transfer of Data | Share Apps         | DistincTrait       |     
+Share Split - Made in India          |  100% seamless transfer | Share Apps         | DistincTrait       |     
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![1](https://user-images.githubusercontent.com/34116562/89002584-1d74e800-d31b-11ea-9183-875395c3e00d.jpg)  |  ![2](https://user-images.githubusercontent.com/34116562/89002592-1f3eab80-d31b-11ea-9eb4-a82b1d7cfe15.jpg) | ![3](https://user-images.githubusercontent.com/34116562/89002600-21086f00-d31b-11ea-836a-dae45d15b26e.jpg) | ![4](https://user-images.githubusercontent.com/34116562/89002608-25348c80-d31b-11ea-9dc9-ec68f5a9df48.jpg) 
 

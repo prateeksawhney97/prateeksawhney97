@@ -44,7 +44,7 @@ Share Split - Made in India          |  100% seamless transfer | Share Apps     
 
 ### Why Share Split App?
 
-⚡ Bulk Transfer Large Files
+#### ⚡ Bulk Transfer Large Files
 Look no further than Share Split when you need to transfer massive folders. You can share multiple large files and folders with one click!
 
 ⚡ Transfer files with flash speed

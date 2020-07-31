@@ -22,8 +22,8 @@ Made in India          |  Home Screen        | Share Apps         | DistincTrait
 
 Transfer and Share in a few clicks ->
 
-⭐ Share videos, music, photos, documents, obb files via android phones.
-⭐ Ability to share multiple folders and large files with one single click.
+⭐ Share videos, music, photos, documents, obb files via android phones.\n
+⭐ Ability to share multiple folders and large files with one single click.\n
 ⭐ Complete ad free experience and hassle free automatic fast transfer of apps and files.
 ⭐ Absolutely without any mobile data usage. No need to turn Internet off. One can use mobile data in between large transfers. Mobile data usage does not affect the transfer speed.
 ⭐ No need to turn your internet off! Yes, you read it right. With Share Split, data and apps can be sent smoothly across different platforms along with the usage of WiFi.

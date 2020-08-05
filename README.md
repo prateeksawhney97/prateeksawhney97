@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 # Indian Share Split App: Transfer files, photos, videos & apps to other devices.
 

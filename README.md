@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-# 👨‍💻 [Prateek Sawhney]: AI Engineer | Data Scientist | Data Engineer
+# 👨‍💻 Prateek Sawhney: AI Engineer | Data Scientist | Data Engineer
 
 ### LinkedIn - [https://www.linkedin.com/in/prateek-sawhney-a0b134131/](https://www.linkedin.com/in/prateek-sawhney-a0b134131/ )
 ### GitHub - [https://github.com/prateeksawhney97](https://github.com/prateeksawhney97)

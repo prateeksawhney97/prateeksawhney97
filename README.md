@@ -18,12 +18,12 @@ I also teach Artificial Intelligence concepts through my **LinkedIn Learning** c
 ### Key Projects
 
 1. **[Behavioral Cloning of Self Driving Car]**  
-   Description: Behavioral Cloning Project for Self-Driving Car Nano Degree Term 1. The project includes designing a neural network and then training the car on the road in unity simulator. The CNN learns and clones the driving behavior.
+   Description: In this project, I designed and trained a Convolutional Neural Network (CNN) to mimic human driving behavior using a Unity-based driving simulator. The model learns by observing and clones driving behavior, enabling a self-driving car to navigate complex roads autonomously. From data collection to real-time decision-making, this project showcases the power of AI in the future of autonomous vehicles! 🚗💡
    - Youtube: [Video Link](https://www.youtube.com/watch?v=2_6eNQr4yAc)
    - GitHub: [Repository Link](https://github.com/prateeksawhney97/Behavioral-Cloning-Project-P4)
 
 3. **[Advance Lane Finding]**  
-   Description: Advanced Lane Detection Project which includes advanced image processing to detect lanes irrespective of the road texture, brightness, contrast, curves etc. Used Image warping and sliding window approach to find and plot the lane lines. Also determined the real curvature of the lane and vehicle position with respect to center.  
+   Description: In this project, I implemented advanced image processing techniques to accurately detect lane lines, no matter the road texture, lighting, or curves. By using image warping and a sliding window approach, the system reliably identifies lane boundaries. Additionally, I calculated the real curvature of the lane and determined the vehicle’s position relative to the center for enhanced driving precision. 🚗🔍
    - Youtube: [Video Link](https://www.youtube.com/watch?v=5q50SOwfwAg)
    - GitHub: [Repository Link](https://github.com/prateeksawhney97/Advanced-Lane-Finding-P2)
 

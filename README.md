@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 # 👨‍💻 Prateek Sawhney: AI Engineer | Data Scientist | Data Engineer
 
 ### LinkedIn - [https://www.linkedin.com/in/prateek-sawhney-a0b134131/](https://www.linkedin.com/in/prateek-sawhney-a0b134131/ )
+### Medium - [https://sawhney-prateek97.medium.com/](https://sawhney-prateek97.medium.com/)
 ### GitHub - [https://github.com/prateeksawhney97](https://github.com/prateeksawhney97)
 
-Hi there! Welcome to my GitHub profile! I'm an AI Engineer and Data Engineer with a passion for creating innovative solutions in **Deep Learning, Computer Vision, and Natural Language Processing**. Whether it's building powerful AI models or creating data engineering pipelines, I'm always working on projects that make an impact.
+Hey there! Welcome to my GitHub profile! I'm an AI Engineer and Data Engineer with a passion for creating innovative solutions in **Machine Learning, Computer Vision, and Natural Language Processing**. Whether it's building powerful AI models or creating data engineering pipelines or solutions, I'm always working on projects that make an impact.
 
-I also teach AI concepts through my **LinkedIn Learning** courses, sharing knowledge with a wide community of learners.
+I also teach Artificial Intelligence concepts through my **LinkedIn Learning** courses, sharing knowledge with a wide community of learners.
 
 ### Key Projects
 

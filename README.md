@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ### LinkedIn - [https://www.linkedin.com/in/prateek-sawhney-a0b134131/](https://www.linkedin.com/in/prateek-sawhney-a0b134131/ )
 ### Medium - [https://sawhney-prateek97.medium.com/](https://sawhney-prateek97.medium.com/)
 
-Hey there! Welcome to my GitHub profile! I'm an AI Engineer and Data Engineer with a passion for creating innovative solutions in **Machine Learning, Computer Vision, and Natural Language Processing**. Whether it's building powerful AI models or creating data engineering pipelines or solutions, I'm always working on projects that make an impact.
+Hey there! Welcome to my GitHub profile! I'm an Artificial Intelligence Engineer and Data Engineer with a passion for creating innovative solutions in **Machine Learning, Computer Vision, and Natural Language Processing**. Whether it's building powerful AI models or creating data engineering pipelines or solutions, I'm always working on projects that make an impact.
 
 I also teach Artificial Intelligence concepts through my **LinkedIn Learning** courses, sharing knowledge with a wide community of learners.
 

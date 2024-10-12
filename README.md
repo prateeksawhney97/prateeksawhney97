@@ -18,15 +18,15 @@ I also teach Artificial Intelligence concepts through my **LinkedIn Learning** c
 
 ### Key Projects
 
-1. **[Project 1 Name]**  
-   Description: A short overview of what the project does or what problem it solves.  
-   - **Technologies**: Python, PyTorch, TensorFlow  
-   - GitHub: [Repository Link](https://github.com/yourusername/project1)
+1. **[Behavioral Cloning of Self Driving Car]**  
+   Description: Behavioral Cloning Project for Self-Driving Car Nano Degree Term 1. The project includes designing a neural network and then training the car on the road in unity simulator. The CNN learns and clones the driving behavior.
+   - Youtube: [Video Link](https://www.youtube.com/watch?v=2_6eNQr4yAc)
+   - GitHub: [Repository Link](https://github.com/prateeksawhney97/Behavioral-Cloning-Project-P4)
 
-2. **[Project 2 Name]**  
-   Description: A brief description of the project.  
-   - **Technologies**: Spark, PySpark, SQL  
-   - GitHub: [Repository Link](https://github.com/yourusername/project2)
+3. **[Advance Lane Finding]**  
+   Description: Advanced Lane Detection Project which includes advanced image processing to detect lanes irrespective of the road texture, brightness, contrast, curves etc. Used Image warping and sliding window approach to find and plot the lane lines. Also determined the real curvature of the lane and vehicle position with respect to center.  
+   - Youtube: [Video Link](https://www.youtube.com/watch?v=5q50SOwfwAg)
+   - GitHub: [Repository Link](https://github.com/prateeksawhney97/Advanced-Lane-Finding-P2)
 
 Explore more projects in my [GitHub Repositories](https://github.com/prateeksawhney97?tab=repositories).
 
@@ -40,4 +40,5 @@ Learn more by visiting my [LinkedIn Profile](https://www.linkedin.com/in/prateek
 
 - LinkedIn: [Prateek Sawhney](https://www.linkedin.com/in/prateek-sawhney-a0b134131/)  
 - Medium: [sawhneyprateek97](https://sawhney-prateek97.medium.com/)
-- Email: [Prateek.sawhney97@gmail.com] ()
+- Email: [Prateek.sawhney97@gmail.com](mailto:Prateek.sawhney97@gmail.com)
+
